@@ -1,15 +1,7 @@
 ---
-pagetitle: "Protests in the USA"
 title: "Protests in the USA"
 output: 
   html_document:
-    theme: cerulean
-    self_contained: true
-    toc: true
-    toc_depth: 3
-    toc_float:
-      collapsed: false
-      smooth_scroll: false
     keep_md: true
 ---
 
