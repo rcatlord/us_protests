@@ -1,19 +1,4 @@
----
-pagetitle: "Protests in the USA"
-title: "Protests in the USA"
-output: 
-  html_document:
-    theme: cerulean
-    self_contained: true
-    toc: true
-    toc_depth: 3
-    toc_float:
-      collapsed: false
-      smooth_scroll: false
-    keep_md: true
----
-
-
+## Protests in the USA
 
 **Data**: Public protests in the USA between January 2017 and January 2021     
 **Source**: Count Love    
